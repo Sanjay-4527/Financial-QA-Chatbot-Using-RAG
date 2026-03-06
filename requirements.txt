@@ -1,0 +1,18 @@
+# Core AI / ML
+torch
+transformers
+sentence-transformers
+
+# Vector Database
+pinecone
+
+# PDF processing
+pymupdf
+
+# UI
+gradio
+
+# Utilities
+numpy
+scikit-learn
+tqdm
